@@ -1,0 +1,13 @@
+:root {
+  --c-primary: #0078E7;
+  
+  --c-border: #eee;
+
+  --qrcode-border-color: #eee;
+}
+
+html.dark {
+  --c-border: #333;
+
+  --qrcode-border-color: gray;
+}

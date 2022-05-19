@@ -1,0 +1,15 @@
+{
+  "private": true,
+  "scripts": {
+    "build": "sponsorkit",
+    "generate": "sponsorkit -w 800",
+    "generate:force": "sponsorkit -w 800 -f",
+    "generate:wide": "sponsorkit -w 1300 --name sponsors.wide --dir ../public"
+  },
+  "devDependencies": {
+    "@sponsors/types": "workspace:*",
+    "@sponsors/utils": "workspace:*",
+    "afdian-api": "^1.0.5",
+    "sponsorkit": "^0.4.1"
+  }
+}

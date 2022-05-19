@@ -1,0 +1,13 @@
+{
+  "compilerOptions": {
+    "baseUrl": ".",
+    "esModuleInterop": true,
+    "resolveJsonModule": true,
+    "paths": {
+      "~/*": ["packages/site/src/*"],
+      "@sponsors/types": ["packages/types/index.ts"],
+      "@sponsors/utils": ["packages/utils/index.ts"]
+    }
+  },
+  "exclude": ["dist", "node_modules"]
+}

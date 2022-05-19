@@ -1,0 +1,68 @@
+{
+  "name": "@sponsors/site",
+  "version": "1.0.0",
+  "private": true,
+  "description": "YunYouJun's Sponsors | 云游君的赞助者们",
+  "license": "MIT",
+  "author": "YunYouJun <me@yunyoujun.cn>",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/YunYouJun/sponsors"
+  },
+  "bin": "bin/run",
+  "scripts": {
+    "dev": "vite",
+    "build": "cross-env NODE_ENV=production vite-ssg build",
+    "serve": "vite preview",
+    "sponsors": "node bin/run add",
+    "typecheck": "vue-tsc --noEmit"
+  },
+  "bugs": {
+    "url": "https://github.com/YunYouJun/sponsors/issues"
+  },
+  "homepage": "https://sponsors.yunyoujun.cn",
+  "dependencies": {
+    "@ctrl/tinycolor": "^3.4.1",
+    "@vueuse/core": "^8.4.0",
+    "@vueuse/head": "^0.7.6",
+    "dayjs": "^1.11.1",
+    "js-yaml": "^4.1.0",
+    "nprogress": "^0.2.0",
+    "vue": "^3.2.33",
+    "vue-about-me": "^1.2.7",
+    "vue-i18n": "^9.1.10",
+    "vue-router": "^4.0.14"
+  },
+  "devDependencies": {
+    "@iconify-json/carbon": "^1.1.4",
+    "@iconify-json/icon-park-outline": "^1.1.1",
+    "@iconify-json/mdi": "^1.1.10",
+    "@iconify-json/ri": "^1.1.1",
+    "@intlify/vite-plugin-vue-i18n": "^3.4.0",
+    "@rollup/plugin-yaml": "^3.1.0",
+    "@types/js-yaml": "^4.0.5",
+    "@types/markdown-it-link-attributes": "^3.0.1",
+    "@types/nprogress": "^0.2.0",
+    "@vitejs/plugin-vue": "^2.3.1",
+    "critters": "^0.0.16",
+    "cross-env": "^7.0.3",
+    "eslint": "^8.14.0",
+    "markdown-it-link-attributes": "^4.0.0",
+    "markdown-it-prism": "^2.2.4",
+    "sass": "^1.51.0",
+    "star-markdown-css": "^0.3.3",
+    "typescript": "^4.6.4",
+    "unocss": "^0.32.9",
+    "unplugin-auto-import": "^0.7.1",
+    "unplugin-vue-components": "^0.19.3",
+    "vite": "2.9.7",
+    "vite-plugin-inspect": "^0.5.0",
+    "vite-plugin-md": "^0.13.0",
+    "vite-plugin-pages": "0.23.0",
+    "vite-plugin-pwa": "^0.12.0",
+    "vite-plugin-vue-layouts": "^0.6.0",
+    "vite-ssg": "0.20.0",
+    "vite-svg-loader": "^3.3.0",
+    "vue-tsc": "^0.34.11"
+  }
+}

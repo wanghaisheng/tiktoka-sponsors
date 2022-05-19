@@ -1,0 +1,23 @@
+button:
+  about: About
+  projects: Projects
+  back: Back
+  go: GO
+  home: Home
+  toggle_dark: Toggle dark mode
+  toggle_langs: Change languages
+
+not-found: not found
+tooltip: It would be great if you could leave your name and links, I will add you to the sponsor list on this page. (If you don’t leave it, it’s called "good-hearted person" by default~)
+
+message:
+  projects: Would you like to see my other projects?
+
+title:
+  account: My Account
+  projects: My other toys
+
+tab:
+  sponsor_list: Sponsor List
+  other_sponsors: Other Sponsor
+  expense: Expense
