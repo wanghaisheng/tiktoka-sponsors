@@ -1,0 +1,178 @@
+{
+  "vite/modulepreload-polyfill": [],
+  "locales/en.yml": [],
+  "locales/zh-CN.yml": [],
+  "../../node_modules/.pnpm/@intlify+shared@9.1.10/node_modules/@intlify/shared/dist/shared.esm-bundler.js": [],
+  "../../node_modules/.pnpm/@intlify+message-resolver@9.1.10/node_modules/@intlify/message-resolver/dist/message-resolver.esm-bundler.js": [],
+  "../../node_modules/.pnpm/@intlify+runtime@9.1.10/node_modules/@intlify/runtime/dist/runtime.esm-bundler.js": [],
+  "../../node_modules/.pnpm/@intlify+message-compiler@9.1.10/node_modules/@intlify/message-compiler/dist/message-compiler.esm-bundler.js": [],
+  "../../node_modules/.pnpm/@intlify+devtools-if@9.1.10/node_modules/@intlify/devtools-if/dist/devtools-if.esm-bundler.js": [],
+  "../../node_modules/.pnpm/@intlify+core-base@9.1.10/node_modules/@intlify/core-base/dist/core-base.esm-bundler.js": [],
+  "../../node_modules/.pnpm/@vue+shared@3.2.33/node_modules/@vue/shared/dist/shared.esm-bundler.js": [],
+  "../../node_modules/.pnpm/@vue+reactivity@3.2.33/node_modules/@vue/reactivity/dist/reactivity.esm-bundler.js": [],
+  "../../node_modules/.pnpm/@vue+runtime-core@3.2.33/node_modules/@vue/runtime-core/dist/runtime-core.esm-bundler.js": [],
+  "../../node_modules/.pnpm/@vue+runtime-dom@3.2.33/node_modules/@vue/runtime-dom/dist/runtime-dom.esm-bundler.js": [],
+  "../../node_modules/.pnpm/vue-i18n@9.1.10_vue@3.2.33/node_modules/vue-i18n/dist/vue-i18n.runtime.esm-bundler.js": [],
+  "src/modules/i18n.ts": [],
+  "\u0000commonjsHelpers.js": [],
+  "\u0000/home/runner/work/tiktoka-sponsors/tiktoka-sponsors/node_modules/.pnpm/nprogress@0.2.0/node_modules/nprogress/nprogress.js?commonjs-module": [],
+  "../../node_modules/.pnpm/nprogress@0.2.0/node_modules/nprogress/nprogress.js": [],
+  "src/modules/nprogress.ts": [],
+  "vite/preload-helper": [],
+  "src/modules/pwa.ts": [],
+  "../../node_modules/.pnpm/vue-router@4.0.14_vue@3.2.33/node_modules/vue-router/dist/vue-router.esm-bundler.js": [],
+  "../../node_modules/.pnpm/@vueuse+head@0.7.6_vue@3.2.33/node_modules/@vueuse/head/dist/index.mjs": [],
+  "../../node_modules/.pnpm/vite-ssg@0.20.0_csn2dxpwjxhcufqcjewtaqepne/node_modules/vite-ssg/dist/chunks/state.mjs": [],
+  "../../node_modules/.pnpm/vite-ssg@0.20.0_csn2dxpwjxhcufqcjewtaqepne/node_modules/vite-ssg/dist/chunks/ClientOnly.mjs": [],
+  "../../node_modules/.pnpm/vite-ssg@0.20.0_csn2dxpwjxhcufqcjewtaqepne/node_modules/vite-ssg/dist/index.mjs": [],
+  "src/components/common/BaseHeader.vue?vue&type=style&index=0&lang.css": [],
+  "src/components/common/BaseHeader.vue": [],
+  "src/assets/donate.ts": [],
+  "src/config/index.ts": [],
+  "src/components/DonateQrcode.vue?vue&type=style&index=0&lang.scss": [],
+  "src/components/DonateQrcode.vue": [],
+  "../../public/sponsors.svg?raw": [],
+  "src/pages/index.vue?vue&type=style&index=0&lang.scss": [],
+  "src/pages/index.vue": [],
+  "../../../../../../../@vite-plugin-pages/generated-pages?id=virtual:generated-pages": [],
+  "../../node_modules/.pnpm/vue-about-me@1.2.7/node_modules/vue-about-me/dist/vue-about-me.mjs": [],
+  "../../node_modules/.pnpm/vue-about-me@1.2.7/node_modules/vue-about-me/dist/style.css": [],
+  "../../node_modules/.pnpm/@vueuse+shared@8.4.0_vue@3.2.33/node_modules/@vueuse/shared/index.mjs": [],
+  "../../node_modules/.pnpm/@vueuse+core@8.4.0_vue@3.2.33/node_modules/@vueuse/core/index.mjs": [],
+  "src/composables/dark.ts": [],
+  "src/components/common/BaseFooter.vue": [],
+  "package.json": [],
+  "src/components/common/BaseMenu.vue?vue&type=style&index=0&lang.scss": [],
+  "src/components/common/BaseMenu.vue": [],
+  "src/layouts/default.vue": [],
+  "../../../../../../../@vite-plugin-vue-layouts/generated-layouts": [],
+  "src/App.vue": [],
+  "../../node_modules/.pnpm/@unocss+reset@0.32.9/node_modules/@unocss/reset/tailwind.css": [],
+  "../../node_modules/.pnpm/star-markdown-css@0.3.3/node_modules/star-markdown-css/src/scss/theme/yun.scss": [],
+  "src/styles/main.scss": [],
+  "../../../../../../../__uno.css": [],
+  "src/main.ts": [],
+  "index.html": [],
+  "assets/app.acb1f828.js-unocss-hash.css": [],
+  "../../node_modules/.pnpm/workbox-window@6.5.3/node_modules/workbox-window/build/workbox-window.prod.es5.mjs": [
+    "/assets/virtual_pwa-register.a5cf61fc.js"
+  ],
+  "../../../../../../../@vite-plugin-pwa/virtual:pwa-register": [
+    "/assets/virtual_pwa-register.a5cf61fc.js"
+  ],
+  "../../../../../../../@vite-plugin-pages/route-block": [
+    "/assets/_...all_.edc9bcee.js"
+  ],
+  "src/pages/[...all].vue": [
+    "/assets/_...all_.edc9bcee.js"
+  ],
+  "src/pages/about.md": [
+    "/assets/about.883f5c69.js"
+  ],
+  "src/store/index.ts": [
+    "/assets/account.78a37def.js",
+    "/assets/account.8d871a9a.css"
+  ],
+  "src/components/MethodIcon.vue": [
+    "/assets/account.78a37def.js",
+    "/assets/account.8d871a9a.css"
+  ],
+  "\u0000/home/runner/work/tiktoka-sponsors/tiktoka-sponsors/node_modules/.pnpm/dayjs@1.11.1/node_modules/dayjs/dayjs.min.js?commonjs-module": [
+    "/assets/account.78a37def.js",
+    "/assets/account.8d871a9a.css"
+  ],
+  "../../node_modules/.pnpm/dayjs@1.11.1/node_modules/dayjs/dayjs.min.js": [
+    "/assets/account.78a37def.js",
+    "/assets/account.8d871a9a.css"
+  ],
+  "src/utils/money.ts": [
+    "/assets/account.78a37def.js",
+    "/assets/account.8d871a9a.css"
+  ],
+  "src/utils/index.ts": [
+    "/assets/account.78a37def.js",
+    "/assets/account.8d871a9a.css"
+  ],
+  "src/components/DetailList.vue?vue&type=style&index=0&lang.scss": [
+    "/assets/account.78a37def.js",
+    "/assets/account.8d871a9a.css"
+  ],
+  "src/components/DetailList.vue": [
+    "/assets/account.78a37def.js",
+    "/assets/account.8d871a9a.css"
+  ],
+  "src/components/common/SmallAvatar.vue": [
+    "/assets/account.78a37def.js",
+    "/assets/account.8d871a9a.css"
+  ],
+  "src/components/SponsorRow.vue?vue&type=style&index=0&lang.scss": [
+    "/assets/account.78a37def.js",
+    "/assets/account.8d871a9a.css"
+  ],
+  "src/components/SponsorRow.vue": [
+    "/assets/account.78a37def.js",
+    "/assets/account.8d871a9a.css"
+  ],
+  "src/assets/data/manual-sponsors.json": [
+    "/assets/account.78a37def.js",
+    "/assets/account.8d871a9a.css"
+  ],
+  "src/components/SponsorList.vue": [
+    "/assets/account.78a37def.js",
+    "/assets/account.8d871a9a.css"
+  ],
+  "src/assets/data/special-sponsors.json": [
+    "/assets/account.78a37def.js",
+    "/assets/account.8d871a9a.css"
+  ],
+  "src/components/OtherSponsors.vue": [
+    "/assets/account.78a37def.js",
+    "/assets/account.8d871a9a.css"
+  ],
+  "src/assets/data/expenses.yml": [
+    "/assets/account.78a37def.js",
+    "/assets/account.8d871a9a.css"
+  ],
+  "src/components/ExpenseTable.vue": [
+    "/assets/account.78a37def.js",
+    "/assets/account.8d871a9a.css"
+  ],
+  "src/pages/account.vue?vue&type=style&index=0&lang.css": [
+    "/assets/account.78a37def.js",
+    "/assets/account.8d871a9a.css"
+  ],
+  "src/pages/account.vue": [
+    "/assets/account.78a37def.js",
+    "/assets/account.8d871a9a.css"
+  ],
+  "src/assets/data/projects.yml": [
+    "/assets/projects.97b67c88.js"
+  ],
+  "../../node_modules/.pnpm/@ctrl+tinycolor@3.4.1/node_modules/@ctrl/tinycolor/dist/module/util.js": [
+    "/assets/projects.97b67c88.js"
+  ],
+  "../../node_modules/.pnpm/@ctrl+tinycolor@3.4.1/node_modules/@ctrl/tinycolor/dist/module/conversion.js": [
+    "/assets/projects.97b67c88.js"
+  ],
+  "../../node_modules/.pnpm/@ctrl+tinycolor@3.4.1/node_modules/@ctrl/tinycolor/dist/module/css-color-names.js": [
+    "/assets/projects.97b67c88.js"
+  ],
+  "../../node_modules/.pnpm/@ctrl+tinycolor@3.4.1/node_modules/@ctrl/tinycolor/dist/module/format-input.js": [
+    "/assets/projects.97b67c88.js"
+  ],
+  "../../node_modules/.pnpm/@ctrl+tinycolor@3.4.1/node_modules/@ctrl/tinycolor/dist/module/index.js": [
+    "/assets/projects.97b67c88.js"
+  ],
+  "src/components/projects/ProjectCard.vue": [
+    "/assets/projects.97b67c88.js"
+  ],
+  "src/components/projects/ProjectCollection.vue": [
+    "/assets/projects.97b67c88.js"
+  ],
+  "src/pages/projects.vue": [
+    "/assets/projects.97b67c88.js"
+  ],
+  "src/layouts/404.vue": [
+    "/assets/404.c25537f7.js"
+  ]
+}
